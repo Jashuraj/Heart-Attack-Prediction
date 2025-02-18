@@ -111,7 +111,7 @@ st.header("	:pencil:")
 Name=st.text_input("Enter Your Name:")
 
 st.header(":man-woman-girl-boy:")
-st.subheader("Age Should Be Greater Than 40")
+st.write("NOTE:Age Should Be Greater Than 40")
 Age=st.number_input("\nEnter The Age:")
 
 st.header(":wind_blowing_face:")
