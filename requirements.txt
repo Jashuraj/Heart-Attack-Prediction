@@ -43,7 +43,6 @@ optree==0.14.0
 packaging==24.2
 pandas==2.2.3
 peewee==3.17.9
-pip==25.0.1
 pillow==11.1.0
 platformdirs==4.3.6
 plotly==6.0.0
@@ -68,8 +67,6 @@ streamlit==1.42.0
 tenacity==9.0.0
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
-tensorflow==2.18.0
-tensorflow_intel==2.18.0
 termcolor==2.5.0
 threadpoolctl==3.5.0
 toml==0.10.2
