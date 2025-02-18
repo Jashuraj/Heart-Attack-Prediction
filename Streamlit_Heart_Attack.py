@@ -5,7 +5,7 @@
 import pandas as pd
 import streamlit as st
 
-df=pd.read_csv('/heart_failure_clinical_records_dataset.csv')
+df=pd.read_csv('heart_failure_clinical_records_dataset.csv')
 
 #Segregate dataset into input X and Output Y
 x1=df.iloc[:,:-1].values
